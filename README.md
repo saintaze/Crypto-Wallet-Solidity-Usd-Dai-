@@ -16,9 +16,9 @@ Contracts that let you mint, send, receive and approve mock Dai and Usd coins.
 ### Getting Started
 clone repo
 
-`cd` into folder and run `yarn install`
+`cd` into folder and run `npm install`
 
-run `yarn start`
+run `truffle develop`
 
 # Live Version
 #### URL: [Interact With Crypto Wallet](https://usd-dai-crypto-wallet-react.vercel.app)
